@@ -1,0 +1,138 @@
+.main {
+  padding-top: 20px;
+}
+
+.container {
+  width: 1003px;
+  margin: 0 auto;
+}
+.sideBar {
+  width: 210px;
+}
+.sidehd {
+  text-align: center;
+  background-color: #1b76c0;
+  padding: 16px 0;
+}
+.sidehd em {
+  font-size: 20px;
+  font-weight: normal;
+  color: #fff;
+  display: block;
+  font-style: normal;
+}
+.sidehd span {
+  text-transform: uppercase;
+  color: #eae6e6;
+}
+.sideBar ul {
+  text-align: center;
+  font-size: 14px;
+}
+.sideBar li {
+  line-height: 42px;
+  border-bottom: 1px solid #f1f1f1;
+}
+.sideBar li a {
+  color: #878787;
+}
+.content {
+  width: 780px;
+  margin-bottom: 70px;
+}
+.c_hd {
+  border-bottom: 1px solid #00589f;
+  overflow: hidden;
+  padding-bottom: 5px;
+}
+.newsList {
+  border-bottom: 1px dashed #cfcfcf;
+  padding-bottom: 22px;
+  margin-top: 22px;
+  overflow: hidden;
+}
+.newsList {
+  border-bottom: 1px dashed #cfcfcf;
+  padding-bottom: 22px;
+  margin-top: 22px;
+  overflow: hidden;
+}
+.newsList .dtime {
+  width: 78px;
+  background-color: #ececec;
+  text-align: center;
+  color: #3e3e3e;
+  font-size: 14px;
+  padding: 6px 0;
+  float: left;
+}
+.dtime em {
+  font-size: 30px;
+  display: block;
+  font-weight: bold;
+}
+.newsInfo {
+  width: 690px;
+  float: right;
+}
+.newsList h2 {
+  font-size: 16px;
+  font-weight: normal;
+  color: #2f2e2e;
+}
+.newsInfo p {
+  line-height: 30px;
+  font-size: 14px;
+}
+.paging {
+  font-size: 14px;
+  margin-top: 20px;
+}
+.paging span {
+  float: right;
+}
+a {
+  text-decoration: none;
+  color: #a8a8a8;
+}
+.c_hd em {
+  font-style: normal;
+  font-size: 16px;
+  color: #0f62a6;
+  font-weight: bold;
+  float: left;
+}
+.c_hd span {
+   float: right;
+   margin-top: 6px;
+ }
+.hotInfo {
+  width: 410px;
+  float: right;
+}
+.newsList h2 {
+  font-size: 16px;
+  font-weight: normal;
+  color: #2f2e2e;
+}
+.content h2 a {
+  color: #3E3E3E;
+}
+.hotInfo .date {
+  margin-bottom: 15px;
+}
+.hotInfo p {
+  font-size: 14px;
+  color: #878787;
+  line-height: 1.7;
+}
+.hotImg {
+  width: 357px;
+  height: 124px;
+  float: left;
+}
+img {
+  border: none;
+  vertical-align: bottom;
+}
+

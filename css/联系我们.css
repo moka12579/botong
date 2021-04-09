@@ -1,0 +1,101 @@
+.contentLayout {
+  min-width: 1003px;
+  background: url(../img/footer_bg.png) no-repeat center top;
+}
+.container {
+  width: 1003px;
+  margin: 0 auto;
+}
+.footer {
+  min-width: 1003px;
+  background: url(../img/copyright_bg.png) no-repeat center bottom;
+  margin-top: 45px;
+  padding-top: 60px;
+  height: 170px;
+}
+.aboutus{
+  width: 449px;
+  height: 505px;
+  background: url(../img/aboutus_bg.png) no-repeat center top;
+  margin: 20px auto 0;
+}
+.aboutus p {
+  padding: 40px 70px 0;
+  font-size: 14px;
+  color: #333;
+  line-height: 2.5;
+  text-indent: 2em;
+}
+.aboutus ul {
+  width: 110px;
+  margin: 115px auto 0;
+  line-height: 2;
+}
+.aboutus .qq {
+  background: url(../img/qq.png) no-repeat left 3px;
+}
+
+.aboutus li {
+  color: #333;
+  padding-left: 35px;
+  font-size: 14px;
+}
+.aboutus .qq {
+  background: url(../img/qq.png) no-repeat left 3px;
+}
+
+.aboutus li {
+  color: #333;
+  padding-left: 35px;
+  font-size: 14px;
+}
+.aboutus .tel {
+  background: url(../img/tel.png) no-repeat left 3px;
+}
+
+.aboutus li {
+  color: #333;
+  padding-left: 35px;
+  font-size: 14px;
+}
+.aboutus .email {
+  background: url(../img/email.png) no-repeat left 3px;
+}
+
+.aboutus li {
+  color: #333;
+  padding-left: 35px;
+  font-size: 14px;
+}
+.f_logo {
+  width: 253px;
+  height: 63px;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+.f_text {
+  width: 720px;
+  background: url(../img/s_line.png) no-repeat left center;
+  margin-top: 40px;
+}
+img {
+  border: none;
+  vertical-align: bottom;
+}
+.f_text li {
+  float: left;
+  color: #fff;
+  border-right: 1px #fff solid;
+  padding: 0 25px;
+}
+.f_text p {
+  color: #fff;
+  text-align: center;
+  margin-top: 40px;
+}
+.f_text a{
+  color: white;
+}
+.hd{
+  padding-top: 34px;
+}

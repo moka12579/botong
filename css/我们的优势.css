@@ -1,0 +1,88 @@
+.adv_content li a {
+  font-size: 14px;
+  color: #333333;
+  font-weight: bold;
+  display: block;
+  height: 58px;
+  background-repeat: no-repeat;
+  background-position: center 25px;
+}
+.advantage{
+  width: 100%;
+  min-width: 1003px;
+  height: 370px;
+  background: url(../img/bg_1.jpg) no-repeat center center;
+  margin-top: 48px;
+}
+.adv_content li {
+  margin: 0 44px;
+  float: left;
+  text-align: center;
+}
+.p1 a{
+  background-image: url("../img/finance.png");
+}
+.p2 a{
+  background-image: url("../img/storage.png");
+  margin-top: 55px;
+}
+.p3 a{
+  background-image: url("../img/trailer.png");
+}
+.p4 a{
+  background-image: url("../img/international.png");
+  margin-top: 55px;
+}
+.p5 a{
+  background-image: url("../img/imported.png");
+}
+.p6 a{
+  background-image: url("../img/traffic.png");
+  margin-top: 55px;
+}
+.adv_content{
+  width: 1003px;
+  height: 130px;
+  background: url(../img/d_line.png) no-repeat center center;
+  margin-top: 38px;
+}
+.container {
+  width: 1003px;
+  margin: 0 auto;
+}
+.p2 a span{
+  display: block;
+  padding-top: 55px;
+}
+.p4 a span{
+  display: block;
+  padding-top: 55px;
+}
+.p6 a span{
+  display: block;
+  padding-top: 55px;
+}
+.p1 a:hover{
+  color: #2E579E;
+  font-weight: bold;
+}
+.p2 a:hover{
+  color: #2E579E;
+  font-weight: bold;
+}
+.p3 a:hover{
+  color: #2E579E;
+  font-weight: bold;
+}
+.p4 a:hover{
+  color: #2E579E;
+  font-weight: bold;
+}
+.p5 a:hover{
+  color: #2E579E;
+  font-weight: bold;
+}
+.p6 a:hover{
+   color: #2E579E;
+   font-weight: bold;
+ }

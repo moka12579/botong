@@ -1,0 +1,80 @@
+.hd{
+  border-bottom: 1px solid #e5e5e5;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+.anchor a{
+  background: url("../img/anchor.png") no-repeat;
+  display: block;
+  width: 115px;
+  height: 155px;
+  font-size: 16px;
+  color: #a8a8a8;
+}
+.service li{
+  float: left;
+  width: 115px;
+  text-align: center;
+  margin: 0 67px;
+}
+.anchor span,.airplane span,.train span,.truck span{
+  display: block;
+  padding-top: 140px;
+}
+.airplane a{
+  background: url("../img/airplane_hover.png") no-repeat;
+  display: block;
+  width: 115px;
+  height: 155px;
+  font-size: 16px;
+  color: #2E579E;
+}
+.train a{
+  background: url("../img/train.png") no-repeat;
+  display: block;
+  width: 115px;
+  height: 155px;
+  font-size: 16px;
+  color: #a8a8a8;
+}
+.truck a{
+  background: url("../img/truck.png") no-repeat;
+  display: block;
+  width: 115px;
+  height: 155px;
+  font-size: 16px;
+  color: #a8a8a8;
+}
+.anchor a:hover{
+  background-image: url("../img/anchor_hover.png");
+  color: #2E579E;
+  font-weight: bold;
+}
+.airplane a:hover{
+  background-image: url("../img/airplane_hover.png");
+  color: #2E579E;
+  font-weight: bold;
+}
+.train a:hover{
+  background-image: url("../img/train_hover.png");
+  color: #2E579E;
+  font-weight: bold;
+}
+.truck a:hover{
+  background-image: url("../img/truck_hover.png");
+  color: #2E579E;
+  font-weight: bold;
+}
+.service:after {
+  content: ".";
+  display: block;
+  height: 0;
+  font-size: 0;
+  clear: both;
+  visibility: hidden;
+}
+.service ul{
+  padding: 30px 0;
+  overflow: hidden;
+}

@@ -1,0 +1,11 @@
+.presentation ul {
+  padding-top: 47px;
+  margin-left: -13px;
+}
+.presentation ul li {
+  float: left;
+  width: 241px;
+  height: 178px;
+  margin-left: 13px;
+  margin-bottom: 13px;
+}
